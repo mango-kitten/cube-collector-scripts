@@ -6,3 +6,6 @@ All of the scripts are individual JS files. The simplest way to use them is Tamp
 
 ## Genral script info:
 This section contains info on what each script does, in order of when they were uploaded.
+### Sigil Max Crafting (v1.3, by MangoKitten)
+This script adds the ability to mass-craft any item in the crafting menu, through entering a number and pressing a button. This script is reccommended to be run with the tab focused, for the highest success rate.
+The latest update refreshes the UI, and allows the script to quit if you do not have enough materials to craft the sigils or cubes asked for.
