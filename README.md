@@ -12,3 +12,5 @@ This script adds the ability to mass-craft any item in the crafting menu, throug
 The latest update patches out some bugs where it would overcraft, adds a new number which predicts the cost of making the sigils, and throws a toast message if you run out of materials.
 ### Mangos Utility Script (v1.0, by MangoKitten)
 This script contains various tools that I have found useful in my scripting for Cube Collector, and are free to use in anyone elses scripts where they need them. It is not reccommended to have the script active ingame, and instead to just copy-paste any code you need from it.
+### CustomNames
+This is a place where all the data is stored for my 'Custom Namecolor Script'! The data is fetched from here and is used to make everyones name all pretty for that script. As of right now, the script is not publicly available, but it may become available later, depending on how well I can get it to work.
