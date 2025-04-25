@@ -1,1 +1,1 @@
-[["MangoKitten","gamer223","apple"], ["silyMangoKitten","hous e key","ana"], ["to right, #ff7300, #bb00ff", "to right, #084f00, #002d4f","to right, #ffffff, #ff59f1"]]
+[["MangoKitten","gamer223","apple", "websocket","AspectQuote","Bolzen26"], ["MangoKitten","gamer223","ana","ana","AspectQuote'","Bolzen"], ["to right, #ff7300, #bb00ff", "to right, #084f00, #002d4f","to right, #ffffff, #ff59f1","to right, #ffffff, #ff59f1","to right, #034efc, #034efc, #03fce7, #fce303","to right, #4100a3, #7800a3"]]
